@@ -1,9 +1,9 @@
 🚀 PROJECT: E-commerce Data Analysis
 
-** Scenario **
-- a data analyst at an online store.
-  ## The company says:
+Scenario 
+A data analyst at an online store.
 
+### The company says:
 “Revenue has been unstable. We want to understand what's happening and how to improve it.”
 
 ----
